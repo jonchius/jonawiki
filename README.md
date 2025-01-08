@@ -8,56 +8,56 @@ These pages will have a more "book"-style than a "blog"-style for more timeless 
 
 Notes on web development and other programming-related topics:&#x20;
 
-{% content-ref url="code/web-development/" %}
-[web-development](code/web-development/)
+{% content-ref url="coded/web-development/" %}
+[web-development](coded/web-development/)
 {% endcontent-ref %}
 
-{% content-ref url="code/data-visualization/" %}
-[data-visualization](code/data-visualization/)
+{% content-ref url="coded/data-visualization/" %}
+[data-visualization](coded/data-visualization/)
 {% endcontent-ref %}
 
-{% content-ref url="code/data-science/" %}
-[data-science](code/data-science/)
+{% content-ref url="coded/data-science/" %}
+[data-science](coded/data-science/)
 {% endcontent-ref %}
 
 ### File
 
 Notes on non-programming topics:&#x20;
 
-{% content-ref url="file/geography.md" %}
-[geography.md](file/geography.md)
+{% content-ref url="noted/geography.md" %}
+[geography.md](noted/geography.md)
 {% endcontent-ref %}
 
-{% content-ref url="file/languages.md" %}
-[languages.md](file/languages.md)
+{% content-ref url="noted/languages.md" %}
+[languages.md](noted/languages.md)
 {% endcontent-ref %}
 
-{% content-ref url="file/mathematics.md" %}
-[mathematics.md](file/mathematics.md)
+{% content-ref url="noted/mathematics.md" %}
+[mathematics.md](noted/mathematics.md)
 {% endcontent-ref %}
 
-{% content-ref url="file/media.md" %}
-[media.md](file/media.md)
+{% content-ref url="noted/philosophy.md" %}
+[philosophy.md](noted/philosophy.md)
 {% endcontent-ref %}
 
-{% content-ref url="file/travel.md" %}
-[travel.md](file/travel.md)
+{% content-ref url="noted/travel.md" %}
+[travel.md](noted/travel.md)
 {% endcontent-ref %}
 
-{% content-ref url="file/various.md" %}
-[various.md](file/various.md)
+{% content-ref url="noted/various.md" %}
+[various.md](noted/various.md)
 {% endcontent-ref %}
 
 ### Life
 
 Notes on personal experiences:
 
-{% content-ref url="life/trips.md" %}
-[trips.md](life/trips.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="life/times.md" %}
-[times.md](life/times.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 
