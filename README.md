@@ -4,7 +4,7 @@ Welcome to the wiki (or personal static notes) of @[jonchius](https://jonchius.c
 
 These pages will have a more "book"-style than a "blog"-style for more timeless topics 🥹&#x20;
 
-## Code
+### Code
 
 Notes on web development and other programming-related topics:&#x20;
 
