@@ -120,3 +120,10 @@
 * [🤔 Philosophy](noted/philosophy.md)
 * [✈️ Travel](noted/travel.md)
 * [🔎 Various](noted/various.md)
+
+## WIRED
+
+* [🔗 Website](https://jonchius.com)
+* [📸 Photo (500px)](https://500px.com/jonchius)
+* [📽️ Video (YouTube)](https://youtube.com/jonchius)
+* [💬 Words (Telegram)](https://t.me/s/jonchius)
