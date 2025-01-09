@@ -36,8 +36,8 @@ Notes on non-programming topics:&#x20;
 [mathematics.md](noted/mathematics.md)
 {% endcontent-ref %}
 
-{% content-ref url="noted/philosophy.md" %}
-[philosophy.md](noted/philosophy.md)
+{% content-ref url="noted/pragmatics/" %}
+[pragmatics](noted/pragmatics/)
 {% endcontent-ref %}
 
 {% content-ref url="noted/travel.md" %}

@@ -114,10 +114,19 @@
 
 ## NOTED
 
+* [💻 Computing](noted/computing/README.md)
+  * [💻 Software development](noted/computing/software-development/README.md)
+    * [💻 List of software development concepts](noted/computing/software-development/list-of-software-development-concepts.md)
+  * [💻 Software usage](noted/computing/software-usage/README.md)
+    * [💻 List of online phenomena](noted/computing/software-usage/list-of-online-phenomena.md)
+    * [💻 List of online scams](noted/computing/software-usage/list-of-online-scams.md)
 * [🌎 Geography](noted/geography.md)
 * [🗣️ Languages](noted/languages.md)
 * [🧮 Mathematics](noted/mathematics.md)
-* [🤔 Philosophy](noted/philosophy.md)
+* [🤔 Pragmatics](noted/pragmatics/README.md)
+  * [🖼️ Culture](noted/pragmatics/culture.md)
+  * [🗳️ Politics](noted/pragmatics/politics.md)
+  * [🛍️ Retail](noted/pragmatics/retail.md)
 * [✈️ Travel](noted/travel.md)
 * [🔎 Various](noted/various/README.md)
   * [List of essays](noted/various/list-of-essays.md)
