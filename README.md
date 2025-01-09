@@ -44,8 +44,8 @@ Notes on non-programming topics:&#x20;
 [travel.md](noted/travel.md)
 {% endcontent-ref %}
 
-{% content-ref url="noted/various.md" %}
-[various.md](noted/various.md)
+{% content-ref url="noted/various/" %}
+[various](noted/various/)
 {% endcontent-ref %}
 
 ### Life

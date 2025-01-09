@@ -119,7 +119,13 @@
 * [🧮 Mathematics](noted/mathematics.md)
 * [🤔 Philosophy](noted/philosophy.md)
 * [✈️ Travel](noted/travel.md)
-* [🔎 Various](noted/various.md)
+* [🔎 Various](noted/various/README.md)
+  * [List of essays](noted/various/list-of-essays.md)
+  * [List of web development sandboxes](noted/various/list-of-web-development-sandboxes.md)
+  * [List of open-source code](noted/various/list-of-open-source-code.md)
+  * [List of web maps](noted/various/list-of-web-maps.md)
+  * [List of web tools](noted/various/list-of-web-tools.md)
+  * [List of websites with interesting themes](noted/various/list-of-websites-with-interesting-themes.md)
 
 ## WIRED
 
