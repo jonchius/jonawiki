@@ -47,18 +47,3 @@ Notes on non-programming topics:&#x20;
 {% content-ref url="noted/various/" %}
 [various](noted/various/)
 {% endcontent-ref %}
-
-### Life
-
-Notes on personal experiences:
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-
-
