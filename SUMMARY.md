@@ -136,9 +136,12 @@
   * [List of web tools](noted/various/list-of-web-tools.md)
   * [List of websites with interesting themes](noted/various/list-of-websites-with-interesting-themes.md)
 
-## WIRED
+***
 
 * [🔗 Website](https://jonchius.com)
+
+## WIRED
+
 * [📸 Photo (500px)](https://500px.com/jonchius)
 * [📽️ Video (YouTube)](https://youtube.com/jonchius)
 * [💬 Words (Telegram)](https://t.me/s/jonchius)
