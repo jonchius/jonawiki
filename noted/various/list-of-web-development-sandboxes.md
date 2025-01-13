@@ -1,4 +1,8 @@
+---
+description: (this page is still a stub)
+---
+
 # List of web development sandboxes
 
-* [Codesandbox.io](https://codesandbox.io)
-* [Jsfiddle.net](https://jsfiddle.net)
+* [codesandbox.io](https://codesandbox.io)
+* [jsfiddle.net](https://jsfiddle.net)
