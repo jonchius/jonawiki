@@ -1,3 +1,7 @@
+---
+description: some concepts and thoughts (and questions?) about politics
+---
+
 # 🗳️ Politics
 
 ### Keynesian beauty contests
@@ -8,9 +12,8 @@ The incentive potentially prevents people from actually selecting the best candi
 
 [_Keynesian beauty contest_](https://en.wikipedia.org/wiki/Keynesian_beauty_contest) _on Wikipedia_
 
-###
+### Sortition
 
+Choosing a leader randomly rather than by election!
 
-
-
-
+[Sortition](https://en.wikipedia.org/wiki/Sortition) on Wikipedia
