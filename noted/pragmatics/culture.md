@@ -1,3 +1,7 @@
+---
+description: some concepts and thoughts (and questions?) about culture
+---
+
 # 🖼️ Culture
 
 ### Invented tradition
@@ -23,6 +27,18 @@ When a system (e.g. a ship) has components that become gradually replaced:&#x20;
 * If it has become a new ship, then when did it cease to remain as the old ship?
 
 [_Ship of Theseus_](https://en.wikipedia.org/wiki/Ship_of_Theseus) _on Wikipedia_
+
+### Sorites Paradox
+
+When does one thing stop being something after a certain amount of incremental changes?&#x20;
+
+* If a culture keeps borrowing from others, when does its authenticity end?&#x20;
+* If a song gets remixed so heavily, does it become a new song altogether?
+  * This "remix" by Sigur Rós is ultimately based on "Feliz Navidad":
+
+{% embed url="https://www.youtube.com/watch?v=LNwwFSKMMc0" %}
+
+[_Sorites Paradox_](https://en.wikipedia.org/wiki/Sorites_paradox) _on Wikipedia_
 
 ### Sturgeon's law
 
