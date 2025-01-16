@@ -114,6 +114,14 @@
 
 ## NOTED
 
+* [🗒️ (Articles)](noted/articles/README.md)
+  * [On art](noted/articles/on-art.md)
+  * [On brands](noted/articles/on-brands.md)
+  * [On media](noted/articles/on-media.md)
+  * [On messaging](noted/articles/on-messaging.md)
+  * [On people](noted/articles/on-people.md)
+  * [On referencing culture](noted/articles/on-referencing-culture.md)
+  * [On internet etiquette](noted/articles/on-internet-etiquette.md)
 * [💻 Computing](noted/computing/README.md)
   * [💻 Software development](noted/computing/software-development/README.md)
     * [💻 List of software development concepts](noted/computing/software-development/list-of-software-development-concepts.md)
