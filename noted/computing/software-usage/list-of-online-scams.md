@@ -1,3 +1,7 @@
+---
+description: list of "ishings" (the suffix for online scams based on "phishing")
+---
+
 # 💻 List of online scams
 
 ### Phishing
