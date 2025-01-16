@@ -44,6 +44,6 @@ Notes on non-programming topics:&#x20;
 [travel.md](noted/travel.md)
 {% endcontent-ref %}
 
-{% content-ref url="noted/various/" %}
-[various](noted/various/)
+{% content-ref url="noted/weblinks/" %}
+[weblinks](noted/weblinks/)
 {% endcontent-ref %}

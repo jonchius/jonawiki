@@ -1,12 +1,8 @@
 ---
-description: (this page is still a stub)
+description: (stub) interesting websites
 ---
 
 # List of non-development-related websites
-
-### Computing
-
-* [javascript tutorial from 1996](https://home.ubalt.edu/abento/js-tutor/javascr.htm)
 
 ### Geography
 
@@ -38,6 +34,7 @@ description: (this page is still a stub)
 
 * [bouncingdvdlogo.com](https://bouncingdvdlogo.com/) (visual candy)
 * [frinkiac.com](https://frinkiac.com) (get simpsons screenshots via keywords)
+* [genius.com](https://www.genius.com) (song lyrics and interpretations)
 * [killedbygoogle.com](https://killedbygoogle.com/)  (a list of projects google killed)
 * [radio shack catalogues](https://www.radioshackcatalogs.com/) (shop for electronics throughout the decades)
 * [wordles of the world](https://rwmpelstilzchen.gitlab.io/wordles/) (wordle games in other languages)

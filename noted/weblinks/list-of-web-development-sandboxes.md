@@ -1,5 +1,5 @@
 ---
-description: (this page is still a stub)
+description: (stub) websites where you can play with code
 ---
 
 # List of web development sandboxes

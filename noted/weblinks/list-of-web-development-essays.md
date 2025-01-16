@@ -1,7 +1,3 @@
----
-description: (this page is still a stub)
----
-
 # List of web development essays
 
 * [14 software architecture design patterns to know](https://www.redhat.com/en/blog/14-software-architecture-patterns)

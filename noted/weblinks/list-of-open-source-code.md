@@ -1,5 +1,5 @@
 ---
-description: (this page is still a stub)
+description: (stub) free software to help build other software
 ---
 
 # List of open-source code
