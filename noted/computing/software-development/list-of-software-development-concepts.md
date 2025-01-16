@@ -1,3 +1,7 @@
+---
+description: names for various phenomena in software development
+---
+
 # 💻 List of software development concepts
 
 ### Alderson loop
@@ -29,10 +33,3 @@ when imported code from an external source interferes with (i.e. _pollutes_) one
 when a project's requirements become too numerous and/or unwanted
 
 [_Scope creep_](https://en.wikipedia.org/wiki/Scope_creep) _on Wikipedia_
-
-
-
-
-
-
-
