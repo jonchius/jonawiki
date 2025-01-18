@@ -40,8 +40,8 @@ Write-ups on non-programming topics:&#x20;
 [pragmatics](noted/pragmatics/)
 {% endcontent-ref %}
 
-{% content-ref url="noted/travel.md" %}
-[travel.md](noted/travel.md)
+{% content-ref url="noted/travel/" %}
+[travel](noted/travel/)
 {% endcontent-ref %}
 
 {% content-ref url="noted/weblinks/" %}
