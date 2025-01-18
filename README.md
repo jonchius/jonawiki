@@ -4,9 +4,9 @@ Welcome to the wiki (or personal static notes) of @[jonchius](https://jonchius.c
 
 These pages will have a more "book"-style than a "blog"-style for more timeless topics 🥹&#x20;
 
-### Code
+### "Coded"
 
-Notes on web development and other programming-related topics:&#x20;
+Write-ups on web development and other programming-related topics:&#x20;
 
 {% content-ref url="coded/web-development/" %}
 [web-development](coded/web-development/)
@@ -20,9 +20,9 @@ Notes on web development and other programming-related topics:&#x20;
 [data-science](coded/data-science/)
 {% endcontent-ref %}
 
-### File
+### "Noted"
 
-Notes on non-programming topics:&#x20;
+Write-ups on non-programming topics:&#x20;
 
 {% content-ref url="noted/geography.md" %}
 [geography.md](noted/geography.md)
