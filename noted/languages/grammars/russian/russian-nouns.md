@@ -40,13 +40,13 @@ Cases show a noun's role in the sentence:&#x20;
   * это в _**книге**_ ("It \[is] _**in**_ \[the] _**book**_")
   * Some prepositions such as "о" (about) use the prepositional case as well, to signify a sense of focus or emphasis:&#x20;
     * "это о _**книге**_" ("It \[is] _**about**_ \[a] _**book**_")
-    * "это по _**улице**_" ("It \[is] along \[a/the] street")
+    * "это по _**улице**_" ("It \[is] _**along**_ \[a/the] _**street**_")
 
-Note that the two nouns, _**книга**_ and _**улица**_ in the example above are feminine nouns. For this gender of nouns, both the dative and prepositional cases have the same ending; masculine and neuter nouns have different endings for each case as will see below!
+Note that the two nouns, _**книга**_ and _**улица**_ in the example above are _feminine_ nouns. For this gender of nouns, both the dative and prepositional cases have the same ending; masculine and neuter nouns have different endings for each case as will see below!
 
 ### Charts summarizing noun changes (noun declensions)
 
-We call these suffix changes in Russian nouns "declinations" or "declensions". Below are the d endings for _most_ nouns:&#x20;
+We call these suffix changes in Russian nouns "declinations" or "declensions". Below are the endings for _most_ nouns:&#x20;
 
 **Singular**
 
@@ -61,7 +61,7 @@ We call these suffix changes in Russian nouns "declinations" or "declensions". B
 
 \* - almost any consonant
 
-We notice that the suffixes are all over the place. This is unfortunately the case (pardon the pun)! Some suffixes reappear in other genders and in other cases. It's a spaghetti of suffixes, yet somehow this language still functions.&#x20;
+We notice that the suffixes are all over the place. This is unfortunately the case (pardon the pun)! Some suffixes reappear in other genders and in other cases. It's a spaghetti dish of suffixes, yet somehow this language still functions.&#x20;
 
 {% hint style="danger" %}
 Yes, that chart above looks completely soul-crushing to memorize - so don't! Rather, try to listen to songs and videos - somehow word association and pattern matching will make it all click!
@@ -88,5 +88,5 @@ I myself don't practice this language very much, so this still looks very diffic
 
 ### Demotivation
 
-Now that we've went over the _noun_ suffixes, there are also separate suffixes for _adjectives,_ which too decline based on the gender, case and number!
+Now that we've went over the _noun_ suffixes, there are also separate suffixes for _adjectives,_ which too decline based on the gender, case and number! Then, we'll get to the way things pluralize based on the number of certain items. You'll want to throw things across the room if you don't already speak this language.&#x20;
 
