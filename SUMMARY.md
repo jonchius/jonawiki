@@ -131,6 +131,7 @@
 * [🌎 Geography](noted/geography.md)
 * [📜 History](noted/history/README.md)
   * [📜 History of Russia](noted/history/history-of-russia.md)
+  * [📜 History of Taiwan](noted/history/history-of-taiwan.md)
 * [🗣️ Languages](noted/languages.md)
   * [📚 Grammars](noted/languages/grammars/README.md)
     * [🪆 Russian](noted/languages/grammars/russian/README.md)
