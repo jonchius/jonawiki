@@ -31,7 +31,7 @@ Cases show a noun's role in the sentence:&#x20;
 * **Accusative** - the "direct object" (recipient of an action)
   * я читаю эту _**книгу**_ ("I \[am] read\[ing] _**this book"**_)
 * **Genitive** - the "possessor"&#x20;
-  * слов _**книги**_ ("words \[of] \[a] _**book**_")
+  * слова _**книги**_ ("words \[of] \[a] _**book**_")
 * **Dative** - the "indirect bystander"
   * я даю _**книге**_ 5 звезд  ("I give \[_**to**_] \[the] _**book**_ 5 stars")
 * **Instrumental** - the "tool" or "accompanied"
