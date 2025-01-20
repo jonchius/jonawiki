@@ -50,18 +50,11 @@ We call these suffix changes in Russian nouns "declinations" or "declensions". B
 
 **Singular**
 
-| case | masculine                                       | →   | →   | →   | feminine | →   | →   | neuter | →   |
-| ---- | ----------------------------------------------- | --- | --- | --- | -------- | --- | --- | ------ | --- |
-| nom  | -\*                                             | -ь  | -й  | -ий | -a       | -я  | -ь  | -о     | -e  |
-| acc  | <p>-* if inanimate (!)<br>-a if animate (!)</p> | →   | →   | →   | -у       | -ю  | -ь  | -о     | -e  |
-| gen  | -a                                              | -я  | -я  | -ия | -ы       | -и  | -и  | -a     | -я  |
-| dat  | -у                                              | -ю  | -ю  | -ию | -e       | -и  | -и  | -у     | -ю  |
-| ins  | -ом                                             | -eм | -eм | -eм | -ой      | -ей | -ью | -ом    | -eм |
-| pre  | -e                                              | -e  | -e  | -ии | -e       | -e  | -и  | -e     | -ии |
+<table><thead><tr><th>case</th><th width="132">masculine</th><th width="70">→</th><th width="81">→</th><th width="69">→</th><th>feminine</th><th width="71">→</th><th width="68">→</th><th>neuter</th><th>→</th></tr></thead><tbody><tr><td>nom</td><td>-*</td><td>-ь</td><td>-й</td><td>-ий</td><td>-a</td><td>-я</td><td>-ь</td><td>-о</td><td>-e</td></tr><tr><td>acc</td><td>-*  <br>-a**</td><td>→</td><td>→</td><td>→</td><td>-у</td><td>-ю</td><td>-ь</td><td>-о</td><td>-e</td></tr><tr><td>gen</td><td>-a</td><td>-я</td><td>-я</td><td>-ия</td><td>-ы</td><td>-и</td><td>-и</td><td>-a</td><td>-я</td></tr><tr><td>dat</td><td>-у</td><td>-ю</td><td>-ю</td><td>-ию</td><td>-e</td><td>-и</td><td>-и</td><td>-у</td><td>-ю</td></tr><tr><td>ins</td><td>-ом</td><td>-eм</td><td>-eм</td><td>-eм</td><td>-ой</td><td>-ей</td><td>-ью</td><td>-ом</td><td>-eм</td></tr><tr><td>pre</td><td>-e</td><td>-e</td><td>-e</td><td>-ии</td><td>-e</td><td>-e</td><td>-и</td><td>-e</td><td>-ии</td></tr></tbody></table>
 
-\* - almost any consonant
+\* - almost any consonant, \*\* - if noun is an animate being
 
-We notice that the suffixes are all over the place. This is unfortunately the case (pardon the pun)! Some suffixes reappear in other genders and in other cases. It's a spaghetti dish of suffixes, yet somehow this language still functions.&#x20;
+We notice that the suffixes are all over the place. Even within a gender, there is more than one pattern of noun declensions! This is unfortunately the case (pardon the pun)! Some suffixes reappear in other genders and in other cases. It's a spaghetti dish of suffixes, yet somehow this language still functions.&#x20;
 
 {% hint style="danger" %}
 Yes, that chart above looks completely soul-crushing to memorize - so don't! Rather, try to listen to songs and videos - somehow word association and pattern matching will make it all click!
