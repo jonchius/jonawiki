@@ -28,8 +28,8 @@ Write-ups on non-programming topics:&#x20;
 [geography.md](noted/geography.md)
 {% endcontent-ref %}
 
-{% content-ref url="noted/languages.md" %}
-[languages.md](noted/languages.md)
+{% content-ref url="noted/languages/" %}
+[languages](noted/languages/)
 {% endcontent-ref %}
 
 {% content-ref url="noted/mathematics.md" %}
