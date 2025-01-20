@@ -129,7 +129,7 @@
     * [💻 List of online phenomena](noted/computing/software-usage/list-of-online-phenomena.md)
     * [💻 List of online scams](noted/computing/software-usage/list-of-online-scams.md)
 * [🌎 Geography](noted/geography.md)
-* [🗣️ Languages](noted/languages/README.md)
+* [🗣️ Languages](noted/languages.md)
   * [📚 Grammars](noted/languages/grammars.md)
   * [📜 Idioms](noted/languages/idioms/README.md)
     * [🀄 Chinese](noted/languages/idioms/chinese/README.md)
