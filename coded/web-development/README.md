@@ -11,7 +11,7 @@ description: an introduction to digital creation
 
 ![the "front-end" of a website in up-to-down traditional Mongolian script](../../.gitbook/assets/docs-mongolia.png)
 
-We will see later on this page that:
+We will see on this page that:
 
 * the line between the front-end and the back-end often blurs
 * computer science theory plays a large role in web development in surprising ways
@@ -20,14 +20,15 @@ We will see later on this page that:
 
 To present data, we connect the following "3 S's":
 
-* **Structuring** (i.e. HTML)
+* **Structuring** (e.g. HTML)
   * to enforce the **sensibility (order) of visual components**
   * to ensure that everyone has **access** to a web resource
-* **Styling** (i.e. CSS)
+* **Styling** (e.g. CSS)
   * to enhance the **visual look-and-feel**
-* **Scripting** (i.e. JavaScript, PHP, Ruby, etc.)
+* **Scripting** (e.g. JavaScript, PHP, Ruby, etc.)
   * to manage **user input** and **data changes**
   * to connect the front-end with the back-end
+  * to build upon other scripting languages (e.g. React, Next.js)
 
 {% content-ref url="html/" %}
 [html](html/)
@@ -43,6 +44,10 @@ To present data, we connect the following "3 S's":
 
 {% content-ref url="react/" %}
 [react](react/)
+{% endcontent-ref %}
+
+{% content-ref url="next.js/" %}
+[next.js](next.js/)
 {% endcontent-ref %}
 
 Sometimes, front-end developers may have to take part in:
@@ -61,7 +66,7 @@ The back-end usually involves:
   * to **get/set data** from a database
 * **Security**
   * **Authorization** - allowing a user into a system
-  * Authentication - checking if the user is genuine
+  * **Authentication** - checking if the user is genuine
 
 ### All developers
 

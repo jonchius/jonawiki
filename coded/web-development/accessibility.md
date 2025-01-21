@@ -1,6 +1,5 @@
 ---
 description: allowing everyone to use our web projects
-hidden: true
 ---
 
 # 🚧 Accessibility
