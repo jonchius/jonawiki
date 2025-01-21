@@ -164,7 +164,6 @@
     * [🥨 German](noted/languages/lexicons/german/README.md)
       * [🥨 "To in-give"](noted/languages/lexicons/german/to-in-give.md)
     * [🧊 Icelandic](noted/languages/lexicons/icelandic/README.md)
-      * [🧊 "The later world war"](noted/languages/lexicons/icelandic/the-later-world-war.md)
       * [🧊 "Multi-duty"](noted/languages/lexicons/icelandic/multi-duty.md)
 * [🧮 Mathematics](noted/mathematics.md)
 * [🤔 Pragmatics](noted/pragmatics/README.md)
