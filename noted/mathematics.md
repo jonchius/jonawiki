@@ -1,5 +1,6 @@
 ---
 description: pattern recognition
+hidden: true
 ---
 
 # 🧮 Mathematics

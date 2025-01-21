@@ -1,5 +1,6 @@
 ---
 description: working with another popular content management system
+hidden: true
 ---
 
 # ✍️ Contentful

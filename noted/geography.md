@@ -1,5 +1,6 @@
 ---
 description: patterns of phenomena
+hidden: true
 ---
 
 # 🌎 Geography
