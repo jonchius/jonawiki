@@ -6,8 +6,8 @@ German has a verb [**eingeben**](https://en.m.wiktionary.org/wiki/eingeben)**,**
 
 When used in a sentence, the "ein-" prefix separates, e.g.:
 
-"Ich gebt das Wort ein"&#x20;
+"Ich geb das Wort ein!"&#x20;
 
-which literally means: "I give the word in"
+which literally means: "I \[am] giving the word in!"
 
-but really means: "I put the word in", or more commonly, "I type the word in"
+but really means: "I am putting the word in!", or more commonly, "I am typing the word in!"
