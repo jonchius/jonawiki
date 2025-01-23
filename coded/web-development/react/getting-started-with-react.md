@@ -4,20 +4,22 @@ description: going from nothing to a boilerplate for your future React projects
 
 # ⚛️ React setup (from scratch!)
 
-Many tutorials mention `create-react-app` to beginners of React, which often includes redundancies and intimidating stuff on the side ... however, another way exists! For a more bare-bones approach, we can follow this "big bang to life" procedure:
+Many tutorials mention `create-react-app` to anyone new to React, which often includes redundancies and intimidating stuff on the side.&#x20;
+
+However, another way exists! This procedure that makes getting started less "black-boxed" than `create-react-app`:
 
 * initialize the project with a `package.json` file
 * install a few dependencies (including `react`)
 * create the foundational `public/index.html` file
 * create our foundational `index.js` **entry point** file
-* create our `App` file
+* create our `App` file (using **JSX**)
 * create other component files
 
 ### Initializing the project
 
 This applies not only to React projects but to any web project!
 
-On a new folder, e.g. `jonotype`, we will enter this following command on Terminal:
+On a new folder, e.g. `reactjon`, we will enter this following command on Terminal:
 
 ```bash
 npm init -y
@@ -26,10 +28,10 @@ npm init -y
 This creates a file named `package.json` that describes our new web app:
 
 ```json
-// jonotype/package.json
+// reactjon/package.json
 
 {
-  "name": "jonotype",
+  "name": "reactjon",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -45,10 +47,10 @@ This creates a file named `package.json` that describes our new web app:
 We can do a few modifications:
 
 ```json
-// jonotype/package.json
+// reactjon/package.json
 
 {
-  "name": "jonotype",
+  "name": "reactjon",
   "version": "1.0.0",
   "description": "",
   /* here */
@@ -96,10 +98,10 @@ npm install react react-dom react-scripts
 Upon installation our `package.json` automatically updates to something like this:
 
 ```json
-// jonotype/package.json
+// reactjon/package.json
 
 {
-  "name": "jonotype",
+  "name": "reactjon",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
@@ -134,7 +136,7 @@ Upon installation our `package.json` automatically updates to something like thi
 Once we let those dependencies install, we can create a new folder called `public`, in which we can place our foundational `index.html` file:
 
 ```xml
-<!-- jonotype/public/index.html -->
+<!-- reactjon/public/index.html -->
 
 <!DOCTYPE html>
 <html lang="en">
@@ -175,7 +177,7 @@ Briefly, this minimal HTML file consists of:
 Now, we will connect the foundational HTML file with a foundational JavaScript file; this `src/index.js` file also happens to import the React scripts:
 
 ```javascript
-// jonotype/src/index.js
+// reactjon/src/index.js
 
 /* dependencies */
 import { StrictMode } from "react"
@@ -206,7 +208,7 @@ Also note:
 Finally, let's get some real visible code going by starting a new file `src/App.js`:
 
 ```javascript
-/* jonotype/src/App.js */
+/* reactjon/src/App.js */
 
 export default function App() {
   return (
@@ -224,7 +226,7 @@ Breaking that down:
 * `default` means that when we `import` this file elsewhere we do not have to call it `App` :
 
 ```javascript
-/* jonotype/src/index.js */
+/* reactjon/src/index.js */
 
 import { StrictMode } from "react"
 import { createRoot } from "react-dom/client"
@@ -250,7 +252,7 @@ root.render(
 Creating child components keeps our code more organized and "modular", so let's give this a try with `src/Component.js`, with `CamelCase` as the convention for component files:
 
 ```javascript
-/* jonotype/src/Component.js */
+/* reactjon/src/Component.js */
 
 export function Component() {
   return (
@@ -266,7 +268,7 @@ Notice how we did not say `export default function Component()` there!
 Then, going back to `src/App.js` we then `import` and render `Component.js`:
 
 ```javascript
-/* jonotype/src/App.js */
+/* reactjon/src/App.js */
 
 import { Component } from './Component.js'
 
@@ -286,13 +288,14 @@ Some things to notice here:
 * We use curly braces for `{ Component }` to extract the function `Component` from `src/App.js`
 * We cannot replace `Component` with another name because we did not specify it as an `export default` back in `src/Component.js`
 * Sometimes, specifying a `default` in a child component helps if we wish to rename the child component later on
+* This "HTML-inside-JavaScript" syntax is known as "**JSX**", or "JavaScript XML", allowing us to build user interfaces with a familiar markup language
 
 #### Aliasing the imported component
 
 If we want an imported component to have a different name, then we could still give it an **alias** using the `as` operator in the `import` statement:
 
 ```javascript
-/* jonotype/src/App.js */
+/* reactjon/src/App.js */
 
 import { Component as Whatever } from './Component.js'
 
@@ -322,7 +325,7 @@ We should see something like:
 ```plaintext
 Compiled successfully!
 
-You can now view jonotype in the browser.
+You can now view reactjon in the browser.
 
   Local:            http://localhost:3000
   On Your Network:  http://192.168.0.153:3000
@@ -363,7 +366,3 @@ We have covered quite a bit here, starting from nothing and ending with a basic 
 * building the illusion of a multi-page website through **routes**
 
 Developers _never_ get bored!
-
-{% hint style="info" %}
-By the way, you can see the final product in [https://github.com/joncoded/jonotype](https://github.com/joncoded/jonotype)
-{% endhint %}
