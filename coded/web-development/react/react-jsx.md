@@ -4,7 +4,7 @@ description: React's HTML-like markup language
 
 # ⚛️ React JSX
 
-[Earlier](./), we had a brief look at **JSX** (JavaScript XML) and so we will now have a closer look at:
+[Earlier](getting-started-with-react.md), we had a brief look at **JSX** (JavaScript XML) and so we will now have a closer look at:
 
 * React without and with JSX
 * JSX tag naming conventions

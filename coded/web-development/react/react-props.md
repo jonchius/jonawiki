@@ -14,8 +14,8 @@ To make a parent component "talk" to a child component:
 
 For example, with an `App.js` we would introduce a `someData` attribute, or `props` :
 
-```javascript
-/* jonotype/src/App.js */
+```jsx
+/* reactjon/src/App.js */
 
 import { Component } from './Component.js'
 
@@ -32,8 +32,8 @@ export default function App() {
 
 Then, in the `Component.js` we would bring the `props` in as a **parameter**:
 
-```javascript
-/* jonotype/src/Component.js */
+```jsx
+/* reactjon/src/Component.js */
 
 export function Component(props) {
   return (
@@ -51,8 +51,8 @@ To access `someData` we would simply use `props.someData` as shown above!
 
 We could make things more concise in the component (let's make a separate `ComponentAlternate.js` file for clarity's sake):
 
-```javascript
-/* jonotype/src/Component.js */
+```jsx
+/* reactjon/src/Component.js */
 
 export function Component({someData}) {
   return (
@@ -71,8 +71,8 @@ Notice that:
 
 Moving this over to `App.js`
 
-```javascript
-/* jonotype/src/App.js */
+```jsx
+/* reactjon/src/App.js */
 
 import { Component } from './Component.js'
 import { ComponentAlternate } from './ComponentAlternate.js'
@@ -97,8 +97,8 @@ The output for `Component` and `ComponentAlternate` will look essentially identi
 
 We could also pass in another parameter (let's use our `ComponentAlternate.js` file):
 
-```javascript
-/* jonotype/src/ComponentAlternate.js */
+```jsx
+/* reactjon/src/ComponentAlternate.js */
 
 export function ComponentAlternate({someData, otherData}) {
   return (
@@ -112,7 +112,9 @@ export function ComponentAlternate({someData, otherData}) {
 
 Then, in the `App.js` file:
 
-```javascript
+```jsx
+/* reactjon/src/App.js */
+
 import { Component } from './Component.js'
 import { ComponentAlternate } from './ComponentAlternate.js'
 
@@ -137,6 +139,3 @@ The output will look like this:
 
 <figure><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700771990849/2a127b14-b450-4094-a0d9-ea187a46da09.png" alt=""><figcaption></figcaption></figure>
 
-### **Code repo**
-
-available on [https://github.com/joncoded/jonotype/tree/001-props](https://github.com/joncoded/jonotype/tree/001-props)

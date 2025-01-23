@@ -176,7 +176,7 @@ Briefly, this minimal HTML file consists of:
 
 Now, we will connect the foundational HTML file with a foundational JavaScript file; this `src/index.js` file also happens to import the React scripts:
 
-```javascript
+```jsx
 // reactjon/src/index.js
 
 /* dependencies */
@@ -207,7 +207,7 @@ Also note:
 
 Finally, let's get some real visible code going by starting a new file `src/App.js`:
 
-```javascript
+```jsx
 /* reactjon/src/App.js */
 
 export default function App() {
