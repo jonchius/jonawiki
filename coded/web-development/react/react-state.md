@@ -124,7 +124,3 @@ Note:
 We can see this action with a CodeSandbox:
 
 {% embed url="https://codesandbox.io/s/react-002-state-sxpv8n?from-embed=" %}
-
-### Code repo
-
-available on [https://github.com/joncoded/jonotype/tree/002-state](https://github.com/joncoded/jonotype/tree/002-state)
