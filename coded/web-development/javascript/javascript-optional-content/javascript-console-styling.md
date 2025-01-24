@@ -2,7 +2,7 @@
 description: optional topic about making the console look good
 ---
 
-# JavaScript console styling
+# 🟨 JavaScript console styling
 
 Earlier we looked at the [console](../javascript-setup/javascript-console.md) but now we can enhance our experience with it when we making logs to it, like this:
 

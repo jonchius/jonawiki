@@ -2,7 +2,7 @@
 description: concatenating strings with variables in a neater way
 ---
 
-# JavaScript string interpolation
+# 🟨 JavaScript string interpolation
 
 {% hint style="warning" %}
 This requires JavaScript ES6 and beyond

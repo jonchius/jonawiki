@@ -2,7 +2,7 @@
 description: optional shorthand ways of writing some if/else statements
 ---
 
-# JavaScript: ternary operators and nullish coalescing
+# 🟨 JavaScript: ternary operators and nullish coalescing
 
 ### Introduction
 

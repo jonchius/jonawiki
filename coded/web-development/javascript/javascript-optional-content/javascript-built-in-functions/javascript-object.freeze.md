@@ -2,7 +2,7 @@
 description: making objects read-only
 ---
 
-# JavaScript Object.freeze()
+# 🟨 JavaScript Object.freeze()
 
 Using `freeze()` will ensure that an object and its properties become read-only:
 

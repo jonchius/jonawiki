@@ -2,7 +2,7 @@
 description: the preferred data format of the internet
 ---
 
-# JavaScript and JSON
+# 🟨 JavaScript and JSON
 
 **JSON** (**JavaScript Object Notation**) allows for storing small sets of data in a relatively simple but robust structure:
 

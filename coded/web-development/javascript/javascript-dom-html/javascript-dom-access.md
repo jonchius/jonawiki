@@ -2,7 +2,7 @@
 description: getting that HTML
 ---
 
-# JavaScript DOM access
+# 🟨 JavaScript DOM access
 
 ### The `document` object
 

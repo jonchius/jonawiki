@@ -2,7 +2,7 @@
 description: looking at the details of a JavaScript function
 ---
 
-# JavaScript function nuances
+# 🟨 JavaScript function nuances
 
 ### Function's built-in properties
 

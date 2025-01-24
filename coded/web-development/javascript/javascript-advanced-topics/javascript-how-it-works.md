@@ -2,7 +2,7 @@
 description: how does this language work?
 ---
 
-# JavaScript: how it works
+# 🟨 JavaScript: how it works
 
 {% hint style="info" %}
 Before going through the following, [this article](https://medium.com/@misbahulalam/uncover-the-javascript-engine-vs-runtime-6556ef449634) covers&#x20;

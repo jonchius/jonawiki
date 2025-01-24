@@ -2,7 +2,7 @@
 description: making changes to the HTML with JavaScript
 ---
 
-# JavaScript DOM manipulation
+# 🟨 JavaScript DOM manipulation
 
 ### Manipulating text
 

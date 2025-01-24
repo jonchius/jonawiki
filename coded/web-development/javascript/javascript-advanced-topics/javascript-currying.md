@@ -2,7 +2,7 @@
 description: splitting function arguments rather than cooking some spicy dish
 ---
 
-# JavaScript currying
+# 🟨 JavaScript currying
 
 {% hint style="info" %}
 The name "currying" is named after the mathematician [Haskell Curry](https://en.wikipedia.org/wiki/Haskell_Curry) and has nothing to do with "currying" a favour, or the spicy dish!
@@ -51,7 +51,7 @@ nationalizedPerson = person('German')
 uniformedPerson = nationalizedPerson('tall army boots')
 
 console.log(uniformedPerson)
-// Hans is the Germany guy who wears the tall army boots
+// Hans is the German guy who wears the tall army boots
 ```
 
 ### Another example

@@ -2,7 +2,7 @@
 description: surfing through the HTML with JavaScript
 ---
 
-# JavaScript DOM traversal
+# 🟨 JavaScript DOM traversal
 
 We can get the parents and children of each document object with `parentNode` and `children`:
 

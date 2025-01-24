@@ -2,7 +2,7 @@
 description: does every element of an array meet a condition?
 ---
 
-# JavaScript every()
+# 🟨 JavaScript every()
 
 The `every()` method determines if all elements in an `Array` type meet a specific condition:
 
