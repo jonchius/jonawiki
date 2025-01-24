@@ -156,6 +156,7 @@
       * [🪆 "Well begun is half done"](noted/languages/idioms/russian/well-begun-is-half-done.md)
       * [🪆 "Don't saw (cut) the branch on which you sit"](noted/languages/idioms/russian/dont-saw-cut-the-branch-on-which-you-sit.md)
       * [🪆 "The morning is wiser than the evening"](noted/languages/idioms/russian/the-morning-is-wiser-than-the-evening.md)
+      * [🪆 "To grab (in mid-)flight"](noted/languages/idioms/russian/to-grab-in-mid-flight.md)
     * [👑 Swedish](noted/languages/idioms/swedish/README.md)
       * [👑 "Tycka om" ("to like")](noted/languages/idioms/swedish/tycka-om-to-like.md)
   * [💬 Lexicons](noted/languages/lexicons/README.md)
