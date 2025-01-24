@@ -6,18 +6,20 @@ description: organizing similar records of data together on a webpage
 
 **Tables** display groups of similar data as a grid-like structure:
 
-* Rows typically show individual data observations
-* Table typically show values of a property
+* Rows typically show data observations of individual phenomena
+* Table typically show values that describe those individuals
 
 For example:
 
 * A row could show a city
-* A column could show data that describe a city, e.g.
+* Each column could show data that describes a single city, e.g.
   * country
   * population
   * mayor
 
-We could say that rows form the "nouns" and that columns form the "adjectives" of tables!
+{% hint style="info" %}
+To use a linguistics analogy, we could say that rows form the "nouns" and that columns form the "adjectives" of tables!
+{% endhint %}
 
 ### Structure
 
@@ -59,23 +61,14 @@ As part of semantic HTML, `<table>` tags allow us to make "two-dimensional lists
 
 We will look at the tags above in the table below:
 
-| Tag        | Nesting level | Meaning                                                                                                           |
-| ---------- | ------------- | ----------------------------------------------------------------------------------------------------------------- |
-| \<table>   | 0             | the table                                                                                                         |
-| \<caption> | 1             | a write-up explaining the table (usually used for screen readers for accessibility and hidden from sighted users) |
-| \<thead>   | 1             | table heading section (usually a row to describe each column)                                                     |
-| \<tr>      | 2             | table row                                                                                                         |
-| \<th>      | 3             | table heading                                                                                                     |
-| \<tbody>   | 1             | table body (main content)                                                                                         |
-| \<td>      | 3             | table definition (data cell)                                                                                      |
-| \<tfoot>   | 1             | table footer (usually a row for numerical totals)                                                                 |
+<table><thead><tr><th width="188">Tag</th><th width="127.33333333333331">Nesting level</th><th>Meaning</th></tr></thead><tbody><tr><td>&#x3C;table></td><td>0</td><td>the table</td></tr><tr><td>&#x3C;caption></td><td>1</td><td>a write-up explaining the table (usually used for screen readers for accessibility and hidden from sighted users)</td></tr><tr><td>&#x3C;thead></td><td>1</td><td>table heading section (usually a row to describe each column)</td></tr><tr><td>&#x3C;tr></td><td>2</td><td>table row</td></tr><tr><td>&#x3C;th></td><td>3</td><td>table heading</td></tr><tr><td>&#x3C;tbody></td><td>1</td><td>table body (main content)</td></tr><tr><td>&#x3C;td></td><td>3</td><td>table definition (data cell)</td></tr><tr><td>&#x3C;tfoot></td><td>1</td><td>table footer (usually a row for numerical totals)</td></tr></tbody></table>
 
 ### Attributes
 
 One attribute to note is `scope` for table headings; these simply denote whether the heading refers to:
 
-* items vertically below it (`col`) as a column
-* items that follow it (`row`) as a row
+* items that appear vertically below that heading as a column (`col`)
+* items that follow that heading as a row (`row`)&#x20;
 
 Older attributes used to live in the `<table>` tag (e.g. `cellspacing` and `cellpadding`) but CSS takes care of them of these days!
 

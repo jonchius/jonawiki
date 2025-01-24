@@ -4,7 +4,7 @@ description: writing notes while coding webpages
 
 # 🗣️ HTML commenting
 
-**HTML comments** allow us to enter notes in an HTML file and they won't directly affect the run time of a page:
+**HTML comments** allow us to enter notes in an HTML file without directly affecting what displays on a page:
 
 ```markup
 <!-- this is a comment -->

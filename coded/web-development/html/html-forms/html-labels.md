@@ -27,14 +27,14 @@ Looking closer into the `<form>` at our fields and their labels:
 </form>
 ```
 
-On top of most of each the form fields, we have a `<label>` tag that points to the field...
-
-...also note that when the user clicks on a `<labe`l`>` tag, it becomes equivalent to clicking on the field itself!
-
-Each `<label>` has a `for` attribute which matches the form field's `name` attribute:
+Above most form fields, we have a `<label>` tag that points to each of those fields, with the `for` attribute:
 
 * The "First name" label matches the `<input>` field that has the name `fname`
 * The "Last name" label matches the `<input>` field that has the name `lname`
 * The "Gender" label matches the `<select>` field that has the name `gender`
 
-However, the `input` with the `type` of submit (i.e. a button) does not need a label as the value text serves as the label!
+{% hint style="info" %}
+Note that we click on a `<label>` tag, it becomes equivalent to clicking on the field itself!
+{% endhint %}
+
+Also note that the `input` field  with the `type` of submit (i.e. a button) does not need a label as the text in the `value` attribute serves as the label!

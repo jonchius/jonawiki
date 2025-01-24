@@ -2,7 +2,7 @@
 description: getting started with the internet's programming language
 ---
 
-# JavaScript setup
+# 🟨 JavaScript setup
 
 We begin with JavaScript by introducing some background tips, i.e. how to:
 

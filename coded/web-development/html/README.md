@@ -8,17 +8,17 @@ description: structuring websites with a markup language
 
 * metadata (data about the web page, e.g. title, description)
 * order of appearance of page items
-* references to _styling_ and _scripting_ (recall [the 3 S's](broken-reference) of the front-end)
+* references to _styling_ and _scripting_&#x20;
 
 In this section, we will review how to:
 
 * Create a [minimal HTML file](html-setup.md)
 * Write notes called [comments](html-commenting.md)
-* Use HTML [tags](html-tag-structure.md) for [structuring](html-tag-structure.md) (but not styling)
-* Use HTML [attributes](html-tag-structure.md) to give a tag more information
+* Use HTML [tags](html-tag-structure/) for [structuring](html-tag-structure/) (but not styling)
+* Use HTML [attributes](html-tag-structure/) to give a tag more information
 * Divide a webpage up into [divs](html-div.md)
-* Use [semantic HTML tags](broken-reference) which give tags a little more meaning
-  * Build HTML [tables](html-table-tags.md) to display two-dimensional data
-  * Build HTML [forms](html-forms/) for user interactivity
+  * Use semantic HTML tags which give tags a little more meaning
+* Build HTML [tables](html-table-tags.md) to display two-dimensional data
+* Build HTML [forms](html-forms/) for user interactivity
 * Manipulate the HTML [head](html-head.md) which gives a webpage its metadata
 * Do some [optional stuff](https://github.com/joncoded/jonsdocs/blob/main/code/webdev/html/broken-reference/README.md)

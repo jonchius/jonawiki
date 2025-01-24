@@ -2,7 +2,7 @@
 description: making things happen again and again
 ---
 
-# JavaScript loops
+# 🟨 JavaScript loops
 
 **Loops** allow us to perform the same functions over and over again - in JavaScript (and in programming in general) we have two main types of loops:
 

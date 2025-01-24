@@ -2,7 +2,7 @@
 description: getting started with JavaScript on a webpage
 ---
 
-# JavaScript and HTML
+# 🟨 JavaScript and HTML
 
 We can include Javascript in an HTML page in one of three ways:
 

@@ -126,6 +126,14 @@ In the example above, any element with a `data-status` value of:&#x20;
 * `churning` would take the styles in only the last two blocks
 * `warsaw` would take the styles in only the first block
 
+{% hint style="info" %}
+An mnemonic to remember the symbols:
+
+* `^` resembles a "hat" (i.e. "heads with")
+* `*` think of the "star" as "featuring" (i.e. "starring")&#x20;
+* `$` think of the "dollar sign" as the "bottom line" (i.e. "ending with")
+{% endhint %}
+
 ### Child selectors
 
 Let us define the parent element and child element as such:

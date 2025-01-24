@@ -2,7 +2,7 @@
 description: documenting the script
 ---
 
-# JavaScript comments and whitespace
+# 🟨 JavaScript comments and whitespace
 
 Here we will outline two handy concepts regarding documentation in JavaScript: &#x20;
 

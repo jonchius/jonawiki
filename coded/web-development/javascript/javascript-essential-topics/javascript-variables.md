@@ -2,7 +2,7 @@
 description: the storage locations of data (the "words")
 ---
 
-# JavaScript variables
+# 🟨 JavaScript variables
 
 **Variables** store data for later use (and to make them more compact/portable):
 

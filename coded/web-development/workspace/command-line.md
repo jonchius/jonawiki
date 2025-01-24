@@ -15,14 +15,24 @@ We can access a computer's file system using the **command line:**&#x20;
 
 The **prompt,** which appears when we load the command line app, shows us the current status:
 
-On Mac, it may look something like: `jon@Jons-Mac-mini Desktop %`:
+On Mac, it may look something like:
+
+```bash
+jon@Jons-Mac-mini Desktop %
+```
+
+Breaking that down, part by part:&#x20;
 
 * `jon@Jons-Mac-mini` (or similar) refers to the _**current machine**_
 * `Desktop` refers to the _**current folder**_
 * `%` is the _**prompt**_ (this symbol may also be `$` or `#` depending on the system)
   * just a way of stating our "cue" to type a command
 
-On Windows, it may look something like: `C:\projects\>`:
+On Windows, it may look something like:&#x20;
+
+```bash
+C:\projects\>
+```
 
 * `C:\` refers to the hard drive
 * `projects` refers to a folder on that drive

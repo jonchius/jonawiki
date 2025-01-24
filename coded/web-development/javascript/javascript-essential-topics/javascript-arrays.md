@@ -5,5 +5,5 @@ description: collecting several objects into one variable
 # 🚧 JavaScript arrays
 
 {% hint style="danger" %}
-stub
+stub - to be completed
 {% endhint %}

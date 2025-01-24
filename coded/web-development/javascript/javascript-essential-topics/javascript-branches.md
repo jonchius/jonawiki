@@ -2,7 +2,7 @@
 description: the decision makers (the "case" makers)
 ---
 
-# JavaScript branches
+# 🟨 JavaScript branches
 
 **Branches** make decisions with data based on cases:
 

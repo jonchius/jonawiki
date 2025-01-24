@@ -2,7 +2,7 @@
 description: listening and responding to (user) interaction (the "conversations")
 ---
 
-# JavaScript event handling
+# 🟨 JavaScript event handling
 
 ### Event handling with the DOM
 

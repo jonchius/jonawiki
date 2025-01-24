@@ -2,7 +2,7 @@
 description: essential math + logic + beyond (the "conjunctions")
 ---
 
-# JavaScript operators
+# 🟨 JavaScript operators
 
 **Operators** look at data and try to do something with them:
 

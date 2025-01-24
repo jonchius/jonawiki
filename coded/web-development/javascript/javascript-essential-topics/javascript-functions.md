@@ -2,7 +2,7 @@
 description: grouping code into actionable chunks (the "verbs")
 ---
 
-# JavaScript functions
+# 🟨 JavaScript functions
 
 **Functions** organize a bunch of statements into chunks:
 

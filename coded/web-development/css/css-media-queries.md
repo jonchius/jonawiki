@@ -28,6 +28,9 @@ We can provide differently-sized screens with different CSS (and also customize 
 
 In the example above, we accommodate three different screen sizes:
 
-* **mobile devices** (anywhere up to 767px wide): 1 card (100% width) per row
-* **tablets** (768-1024px wide): 2 cards (each 50% wide) per row
-* **desktops** (1024+ px wide): 3 cards (each 33% wide) per row
+* **mobile devices** (anywhere up to 767px wide):&#x20;
+  * 1 card (100% width) per row
+* **tablets** (768-1024px wide):&#x20;
+  * 2 cards (each 50% wide) per row
+* **desktops** (1024+ px wide):&#x20;
+  * 3 cards (each 33% wide) per row

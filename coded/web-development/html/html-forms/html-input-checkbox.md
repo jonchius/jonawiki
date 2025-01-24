@@ -34,7 +34,7 @@ The `<input>` field for `type="checkbox"` looks like this:
 
 ### Takeaways
 
-* Unlike `type="radio"` the checkboxes do not need the same value in the `name` attribute
+* Unlike `type="radio",` the checkboxes do not need the same value in the `name` attribute
 * The checkbox does have an optional `value` attribute which will submit along with the `name` which will act as a "key" or property name
   * When the checkbox _does not_ have a `value` then the value would simply be `on`
 * The `checked` attribute makes the checkbox checked by default

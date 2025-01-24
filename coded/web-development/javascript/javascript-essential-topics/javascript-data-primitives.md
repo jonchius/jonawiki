@@ -2,7 +2,7 @@
 description: the building blocks of web apps
 ---
 
-# JavaScript data (primitives)
+# 🟨 JavaScript data (primitives)
 
 We can categorize basic forms of **data,** known as **primitives,** as follows:
 

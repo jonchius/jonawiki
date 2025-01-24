@@ -2,7 +2,7 @@
 description: collections of properties and values (the "nouns")
 ---
 
-# JavaScript objects
+# 🟨 JavaScript objects
 
 So far, we have:
 

@@ -2,7 +2,7 @@
 description: looking at JavaScript variables without displaying them
 ---
 
-# JavaScript console
+# 🟨 JavaScript console
 
 For debugging purposes, we can output any processed data without directly affecting the program using **console logging** or `console.log`:
 

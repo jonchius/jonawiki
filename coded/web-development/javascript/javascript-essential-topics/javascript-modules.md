@@ -2,7 +2,7 @@
 description: organized and re-usable code (the "set phrases")
 ---
 
-# JavaScript modules
+# 🟨 JavaScript modules
 
 Organizing JavaScript code into reusable modules allows for:
 

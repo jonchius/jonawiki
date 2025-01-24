@@ -2,7 +2,7 @@
 description: the grammar of the internet's programming language
 ---
 
-# JavaScript (essential topics)
+# 🟨 JavaScript (essential topics)
 
 Starting out, JavaScript will seem like it has nothing to do with working on a website but let's look at it this way:
 

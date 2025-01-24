@@ -63,7 +63,7 @@ However, instead of using a combination of digits and letters in each argument, 
 
 ### HSL colors
 
-Unlike hexadecimal and RGB notation, this **HSL (hue-saturation-luminolosity)** notation has to do with two additional properties of color:
+Unlike hexadecimal and RGB notation, this **HSL (hue-saturation-luminosity)** notation has to do with two additional properties of color:
 
 * First number represents the degree value of the **hue** on the color wheel
   * 0/360 = red

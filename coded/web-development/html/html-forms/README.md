@@ -41,3 +41,5 @@ Breaking that into small pieces, let's begin with the parent `<form>` tag:
 * `method` refers to how the form will submit (and what the URL will look like upon the form's submission)
   * `POST` - submitting data - the URL would have no query strings (the URL would have "?" followed by some text)
   * `GET` - retrieving data - the URL would have query strings (e.g. `index.html?fname=Jon`)
+
+We will have a look at the child elements of the `<form>` tag in the next pages!

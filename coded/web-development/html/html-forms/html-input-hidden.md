@@ -30,4 +30,4 @@ In a form, an `<input>` tag with a `type="hidden"` would usually not appear on t
 
 ### Takeaways
 
-* When the form submits, it will send the `hidden` field with `cantsee=this` as a key and value data pair
+* When the form submits, it will send the `hidden` field with `cantsee` as the key and `this` as the value

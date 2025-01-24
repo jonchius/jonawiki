@@ -19,10 +19,11 @@ At the minimal, the `<input>` field for `type="text"` looks like this:
 </form>
 ```
 
-Other attributes can include
+Other attributes can include:&#x20;
 
-* `maxlength` (enforce a maximum length of input)
-* `required` (enforces a value; cannot stay blank)
+* `maxlength` (enforces a maximum character length of input)
+* `minlength` (enforces a minimum character length of input)
+* `required` (enforces some kind of value; cannot stay blank)
 * `id` (identifies the field uniquely)
   * differs from `name` in that `name` does not enforce uniqueness
 
@@ -41,5 +42,5 @@ Other attributes can include
 
 Most of those attributes are self-explanatory and "google-able" but taking note that:
 
-* the difference between a `name` and `id` lies on the requirement uniqueness of `id`
+* the difference between a `name` and `id` lies on the uniqueness requirement of `id`
 * we can use `name` multiple times in the same HTML document!

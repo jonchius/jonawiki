@@ -5,7 +5,7 @@ description: templates for objects
 # 🚧 JavaScript classes
 
 {% hint style="danger" %}
-stub
+stub - to be completed
 {% endhint %}
 
 ### Classes

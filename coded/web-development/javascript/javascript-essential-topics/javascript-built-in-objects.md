@@ -2,7 +2,7 @@
 description: specialized objects (the "jargon sets")
 ---
 
-# JavaScript built-in objects
+# 🟨 JavaScript built-in objects
 
 Sometimes we need specialized objects to help express what we want to do - a specialized "vocabulary" within the programming language (a jargon!) ...
 

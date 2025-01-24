@@ -8,7 +8,7 @@ Let us begin with the creation of a basic HTML file!
 
 ### Prerequisites
 
-To create an HTML file, you could use only a **text editor,** like [TextEdit](https://en.wikipedia.org/wiki/TextEdit) or [Notepad](https://en.wikipedia.org/wiki/Microsoft_Notepad)...
+To create an HTML file, we could use a simple **text editor,** like [TextEdit](https://en.wikipedia.org/wiki/TextEdit) or [Notepad](https://en.wikipedia.org/wiki/Microsoft_Notepad)...
 
 ...but a **code editor, like** [Sublime](https://www.sublimetext.org) or [Visual Studio Code](https://code.visualstudio.com), helps a lot!
 
@@ -34,16 +34,17 @@ If we open the text editor, we can copy and paste the below:
 * The first line tells the browser to expect an HTML document
 * The actual HTML begins inside the `<html>` tag which contains an optional `lang` attribute to indicate what human language the page uses
   * the HTML continues with the `<head>` tag&#x20;
-    * this contains the HTML page's metadata (data about the page) with `<meta>` tags
+    * the `<title>` tag displays the page's name on the browser tab
   * then the `<body>` tag contains the actual content that the browser displays
+    * the `<p>` tag represent a paragraph
 
 ### Closing tags
 
 * Most HTML tags come paired with a **closing tag**
   * In the above example, we have `</title>`, `</head>`, `</p>, </body>` and `</html>`
-  * Tags close in a nested hierarchy such that we cannot have an outer tag close before an inner tag closes, e.g. `<body><h1></body></h1>` must instead be `<body><h1></h1></body>`
+  * Tags close in a nested hierarchy such that we _cannot_ have an outer tag close before an inner tag closes, e.g. `<body><h1></body></h1>` must instead be `<body><h1></h1></body>`
 
-That makes up nearly the barest-bones HTML page; after that, the possibilities become endless:
+That makes up nearly the barest-bones HTML page and after that, the possibilities become endless:
 
 ```markup
 <!DOCTYPE html>
@@ -62,19 +63,18 @@ That makes up nearly the barest-bones HTML page; after that, the possibilities b
 </html>
 ```
 
+Looking at the new tags, we have:&#x20;
+
+* `<meta>` which provides background information about the page
+  * in this case, the tag contains an attribute `charset` that tells us the page uses Unicode (a "character set" that includes the alphabets and scripts of every human language)&#x20;
+* `<h1>` represents a top-level heading and, as we can guess, \<h2> would mean a second-level heading, and so on!
+
 ### Self-closing tags
 
-* Here, we have introduce a new tag `<meta charset="utf-8" />` which features a tag without a closing tag that self-closes (we can also call this a **self-closing tag**)
+* As above, we introduced `<meta charset="utf-8" />` which features a tag without a closing tag that self-closes (we can also call this a **self-closing tag**)
   * Other tags that have this feature include
     * `<link href="..." />` for stylesheets (located usually only in the `<head>` tag)
     * `<img src="..." />` for images
     * `<br />`for line breaks (like pressing "shift+return" or "shift+enter" on a word processor)
   * Note that it has become _optional_ to include the **self-closing slash**
-    * e.g. it is OK to write just `<br>`
-
-### Finally
-
-* The optional `<meta charset="utf-8" />` tag tells the browser what kind of alphabets (and numbers) the document will use
-  * We've included this tag here more to demonstrate self-closing tags than its function
-  * We will later look at [meta tags in detail](broken-reference)
-* We will go over `<h1>` and `<p>` in the next page about **HTML tags...**
+    * e.g. it is OK to write just `<br>` but writing `<br />` will prepare us later for [JSX](../react/react-jsx.md) in [React](../react/)!

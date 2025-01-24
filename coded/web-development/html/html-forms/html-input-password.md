@@ -18,11 +18,7 @@ The `<input>` field for `type="password"` can look something like this:
 </form>
 ```
 
-It essentially looks like an `<input>` field with the `type="text"` except that the user only sees dots instead of the text!
-
-{% embed url="https://codepen.io/joncoded/pen/PoKxaYN" %}
-a demo of a password field above
-{% endembed %}
+It essentially looks like an `<input>` field with the `type="text",` except that the user only sees dots (or some kind of cryptic character) instead of the text!
 
 ### Takeaways
 

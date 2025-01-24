@@ -1,3 +1,7 @@
+---
+description: entering these commands to keep your workspace updated
+---
+
 # 🖥️ Staying updated
 
 In order to stay updated with the latest packages on the command line:

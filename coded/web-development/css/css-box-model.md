@@ -4,15 +4,15 @@ description: sizes + margins + borders + paddings + overflows
 
 # 📦 CSS box model
 
-<figure><img src="../../../.gitbook/assets/css-box-model.png" alt=""><figcaption><p>the box model</p></figcaption></figure>
+<div data-full-width="true"><figure><img src="../../../.gitbook/assets/css-box-model.png" alt="" width="194"><figcaption><p>the box model</p></figcaption></figure></div>
 
 Each element has the following basic properties, all of which have a numerical value (usually in pixels or percentage of its parent container):&#x20;
 
 * **width** (left to right length)
 * **height** (top to bottom length)
 * **padding** (inner white space)
-* **margin** (outer white space)
 * **border** (boundary space that separates the inner white space and outer white space)
+* **margin** (outer white space)
 
 In addition, there exists:
 
@@ -164,7 +164,7 @@ div.example {
 }
 
 div.example {
-    border: 10px solid red; /* width style color */
+    border: 10px solid red; /* width + style + color */
 }
 ```
 
@@ -176,7 +176,7 @@ This "border thickness" property usually has an amount in pixels (`px`) but can 
 
 #### Border style
 
-The border style refers to the border's appearance and takes one value out of a closed set
+The border style refers to the border's appearance and takes one value out of a closed set:&#x20;
 
 ```css
 border-style: none;
@@ -207,7 +207,7 @@ border-style: none solid dotted dashed;
 
 #### Border color
 
-Self-explanatory and can take on any of the [CSS color notations](css-colors.md)
+Self-explanatory and can take on any of the [CSS color notations](css-colors.md):
 
 ```css
 div.example {

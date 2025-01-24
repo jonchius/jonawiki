@@ -11,14 +11,14 @@ description: an introduction to digital creation
 
 ![the "front-end" of a website in up-to-down traditional Mongolian script](../../.gitbook/assets/docs-mongolia.png)
 
-We will see on this page that:
+We will see that:
 
 * the line between the front-end and the back-end often blurs
-* computer science theory plays a large role in web development in surprising ways
+* computer science theory surprisingly still plays a large role in web development
 
 ### The front-end
 
-To present data, we connect the following "3 S's":
+To present data, we should assemble the following "3 S's":
 
 * **Structuring** (e.g. HTML)
   * to enforce the **sensibility (order) of visual components**
@@ -28,7 +28,7 @@ To present data, we connect the following "3 S's":
 * **Scripting** (e.g. JavaScript, PHP, Ruby, etc.)
   * to manage **user input** and **data changes**
   * to connect the front-end with the back-end
-  * to build upon other scripting languages (e.g. React, Next.js)
+  * to build upon other scripting languages (e.g. [React](react/), [Next.js](next.js/))
 
 {% content-ref url="html/" %}
 [html](html/)
@@ -54,25 +54,27 @@ Sometimes, front-end developers may have to take part in:
 
 * **Imaging** (e.g. Photoshop or free [Photopea](https://www.photopea.com))
   * to adjust (resize, crop, etc.) visual assets provided by a client
-  * to take the load off the design team who might work with more complex imaging and graphics projects
+  * to take the load off the design team, who might work with more complex imaging and graphics projects, by helping with simpler tasks such as image cropping
 
 ### The back-end
 
 The back-end usually involves:
 
-* **Scripting** (e.g. also JavaScript, with some PHP, Ruby, Perl and older programming languages)
+* **Scripting** (e.g. also [JavaScript](javascript/), with some PHP, Ruby, Perl and older programming languages)
   * to **process the results** from database querying
 * **Database querying** (e.g. GraphQL, MongoDB, MySQL)
   * to **get/set data** from a database
 * **Security**
-  * **Authorization** - allowing a user into a system
-  * **Authentication** - checking if the user is genuine
+  * **authorization** allows a user into a system
+    * identity check via username or, better yet, e-mail address
+  * **authentication** checks to see if the user is genuine
+    * passwords, secret questions and other two-factor methods
 
 ### All developers
 
 Each developer may also have to take part in:
 
-* **Versioning** or **version control** (e.g. Git or Mercurial)
+* **Versioning** or **version control** (e.g. [Git](git/) or Mercurial)
   * to not only submit content "to the cloud" but also to ensure backups if something goes wrong
   * to allow for collaboration by multiple developers within the same project(s)
 
@@ -91,11 +93,12 @@ Each developer may also have to take part in:
 * **Documenting** (e.g. GitBook!)
   * to communicate cases and learnings for obvious reasons
 * **Organizing** (e.g. SCRUM)
-  * to ensure that all the programming, layout, look-and-feel, content, images (and any other assets) all come together, so that the development experience goes as smoothly as possible
-  * to send completed projects for quality assurance and correct defects
-  * to determine a release's suitability to go "into production" (i.e. on the internet)
+  * **planning** to ensure that all the programming, layout, look-and-feel, content, images (and any other assets) all come together, as smoothly as possible
+  * to send completed projects for **quality assurance** and correct defects
+  * to determine a release's suitability to go "into **production**" (i.e. on the internet)
+  * to discuss after launch any shortcomings and room for improvement ("**retro**")
 * **Optimizing**
-  * for more universal accessibility, better usability, improved speed
+  * for more **universal accessibility**, better usability, improved speed
   * for enhancing the experience of the "finished" product
     * note: no product ever really gets "finished"
 

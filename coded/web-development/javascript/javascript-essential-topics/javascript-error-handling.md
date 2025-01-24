@@ -2,7 +2,7 @@
 description: responding to unsatisfactory data (the "interjections")
 ---
 
-# JavaScript error handling
+# 🟨 JavaScript error handling
 
 Scripts "error out" in two different ways:
 
