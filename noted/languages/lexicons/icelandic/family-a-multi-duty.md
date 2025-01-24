@@ -1,8 +1,8 @@
 ---
-description: the "family" in Icelandic
+description: family as a set of obligations
 ---
 
-# 🧊 "Multi-duty"
+# 🧊 Family : a "multi-duty"
 
 In Icelandic, "family" translates to **fjölskylda** which, in turn, translates back to "_multi-duty_". The components are:
 
