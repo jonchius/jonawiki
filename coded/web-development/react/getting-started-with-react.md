@@ -4,9 +4,9 @@ description: going from nothing to a boilerplate for your future React projects
 
 # ⚛️ React setup (from scratch!)
 
-Many tutorials mention `create-react-app` to anyone new to React, which often includes redundancies and intimidating stuff on the side.&#x20;
+Many tutorials mention `create-react-app` to anyone new to React, but `create-react-app` introduces redundant files and things that can confuse the React learner...
 
-However, another way exists! This procedure that makes getting started less "black-boxed" than `create-react-app`:
+Instead, let's start a React project from scratch - we will:&#x20;
 
 * initialize the project with a `package.json` file
 * install a few dependencies (including `react`)
@@ -17,7 +17,7 @@ However, another way exists! This procedure that makes getting started less "bla
 
 ### Initializing the project
 
-This applies not only to React projects but to any web project!
+This section applies not only to React projects but to any web project!
 
 On a new folder, e.g. `reactjon`, we will enter this following command on Terminal:
 
@@ -77,11 +77,11 @@ We can do a few modifications:
 
 #### Updating the entry point
 
-We update the `main` property from `index.js` to `src/index.js` just to keep our files more organized!
+We update the `main` property from `index.js` to `src/index.js` to keep our files more organized!
 
 #### Adding `npm run` scripts
 
-We then include our `npm run` scripts - these enable us to run a local version of our app (webpage)!
+We then include our `npm run` scripts which allow us to run a local version of our app (webpage)!
 
 #### Adding `browserslist`
 
@@ -135,7 +135,7 @@ Upon installation our `package.json` automatically updates to something like thi
 
 Once we let those dependencies install, we can create a new folder called `public`, in which we can place our foundational `index.html` file:
 
-```xml
+```html
 <!-- reactjon/public/index.html -->
 
 <!DOCTYPE html>
